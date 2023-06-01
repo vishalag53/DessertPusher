@@ -1,4 +1,4 @@
-package com.example.dessertpusher
+package com.vishalag53.dessertpusher
 
 import android.content.ActivityNotFoundException
 import androidx.appcompat.app.AppCompatActivity
@@ -9,7 +9,7 @@ import android.widget.Toast
 import androidx.core.app.ShareCompat
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.LifecycleObserver
-import com.example.dessertpusher.databinding.ActivityMainBinding
+import com.vishalag53.dessertpusher.databinding.ActivityMainBinding
 import timber.log.Timber
 
 const val KEY_REVENUE = "revenue_key"

@@ -1,4 +1,4 @@
-package com.example.dessertpusher
+package com.vishalag53.dessertpusher
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

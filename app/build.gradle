@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.dessertpusher'
+    namespace 'com.vishalag53.dessertpusher'
     compileSdk 33
 
     buildFeatures{

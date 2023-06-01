@@ -1,4 +1,4 @@
-package com.example.dessertpusher
+package com.vishalag53.dessertpusher
 
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleObserver
